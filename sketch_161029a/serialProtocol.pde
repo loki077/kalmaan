@@ -5,6 +5,7 @@ import processing.serial.*;
 
     output: ":~6lokesh~"
 */
+
 class SerialProtocol
 {
     Serial myPort;

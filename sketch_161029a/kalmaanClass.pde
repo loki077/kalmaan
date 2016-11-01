@@ -1,5 +1,6 @@
 class KalmaanFillter
 {
+  
 	float gain;
 	float gainPrevious;
 	float gainRatio;
